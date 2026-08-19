@@ -1,6 +1,6 @@
 # About Us
 
-This portal is maintained by **Acme Inc.**, a placeholder organization used in the template.
+This portal is maintained by **Nimbus Analytics**, Data-driven analytics and consulting company specializing in CRM, BI and data pipeline solutions..
 
-- Organization: Acme Inc.
-- Description: A template knowledge portal preloaded with sample content.
+- Organization: Nimbus Analytics
+- Description: Data-driven analytics and consulting company specializing in CRM, BI and data pipeline solutions.
