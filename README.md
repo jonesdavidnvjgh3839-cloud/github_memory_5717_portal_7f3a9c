@@ -1,2 +1,3 @@
-# github_memory_5717_portal_7f3a9c
-Knowledge portal repository for Nimbus Analytics (task github_memory_5717)
+# Knowledge Portal
+
+This is a sample knowledge portal repository created from a template. It contains placeholder content that should be replaced with real organization data.
