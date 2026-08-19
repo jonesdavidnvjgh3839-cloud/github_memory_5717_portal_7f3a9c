@@ -4,10 +4,13 @@ Welcome to the knowledge portal.
 
 ## Team
 
-- sample-john
-- sample-jane
+- Emma Chen
+- Liam Patel
+- Lucas Weber
+- Sofia Rossi
 
 ## Projects
 
-- sample-crm
-- sample-erp
+- Atlas CRM
+- Helix Platform
+- Quasar Analytics
